@@ -31,3 +31,9 @@
 [submodule "alfred-date-calculator"]
 	path = alfred-date-calculator
 	url = https://github.com/LeEnno/alfred-date-calculator.git
+[submodule "hatmaker"]
+	path = hatmaker
+	url = https://github.com/bpinto/hatmaker.git
+[submodule "awm"]
+	path = awm
+	url = https://github.com/jonathanwiesel/awm.git
