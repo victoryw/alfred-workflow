@@ -46,3 +46,6 @@
 [submodule "alfred-workflow-2"]
 	path = alfred-workflow-2
 	url = https://github.com/ctwise/alfred-workflows.git
+[submodule "alfred-workflow-3"]
+	path = alfred-workflow-3
+	url = https://github.com/zenorocha/alfred-workflows.git
