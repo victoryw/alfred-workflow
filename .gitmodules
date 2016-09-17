@@ -22,3 +22,12 @@
 [submodule "alfred-npms"]
 	path = alfred-npms
 	url = https://github.com/sindresorhus/alfred-npms.git
+[submodule "alfred-fakeenum"]
+	path = alfred-fakeenum
+	url = https://github.com/deanishe/alfred-fakeum.git
+[submodule "alfred-json-compressor"]
+	path = alfred-json-compressor
+	url = https://github.com/ubuntudroid/alfred-json-compressor.git
+[submodule "alfred-date-calculator"]
+	path = alfred-date-calculator
+	url = https://github.com/LeEnno/alfred-date-calculator.git
