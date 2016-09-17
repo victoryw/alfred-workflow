@@ -1,0 +1,24 @@
+[submodule "willfarrell-alfred-workflows"]
+	path = willfarrell-alfred-workflows
+	url = https://github.com/willfarrell/alfred-workflows.git
+[submodule "alfred-github-workflow"]
+	path = alfred-github-workflow
+	url = https://github.com/gharlan/alfred-github-workflow.git
+[submodule "alfred-swich-vpn"]
+	path = alfred-swich-vpn
+	url = https://github.com/uchida/alfred-switch-vpn.git
+[submodule "alfredapp-trello"]
+	path = alfredapp-trello
+	url = https://github.com/janhenckens/alfredapp-trello.git
+[submodule "alfred-chrome-windows-workflow"]
+	path = alfred-chrome-windows-workflow
+	url = https://github.com/caiogondim/alfred-chrome-window-workflow.git
+[submodule "alfred-workflow"]
+	path = alfred-workflow
+	url = https://github.com/dalang/alfred-workflows.git
+[submodule "alfred-airdrop-workflow"]
+	path = alfred-airdrop-workflow
+	url = https://github.com/paulheyer/Alfred-AirDrop-Workflow.git
+[submodule "alfred-npms"]
+	path = alfred-npms
+	url = https://github.com/sindresorhus/alfred-npms.git
