@@ -37,3 +37,12 @@
 [submodule "awm"]
 	path = awm
 	url = https://github.com/jonathanwiesel/awm.git
+[submodule "alfred-evernote"]
+	path = alfred-evernote
+	url = https://github.com/shaoshing/alfred-evernote.git
+[submodule "alfred-workflow-1"]
+	path = alfred-workflow-1
+	url = https://github.com/ctwise/alfred-workflows.git
+[submodule "alfred-workflow-2"]
+	path = alfred-workflow-2
+	url = https://github.com/ctwise/alfred-workflows.git
